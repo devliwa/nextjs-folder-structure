@@ -236,11 +236,4 @@ gatherup/
 - Understand microservice architecture
 - Practice with complex routing
 
-## 🎥 YouTube Video
 
-This repository accompanies a YouTube video that walks through each folder structure, explaining:
-
-- When to use each approach
-- How to migrate between structures
-- Best practices for each level
-- Common pitfalls to avoid
